@@ -1,3 +1,4 @@
 .jumbotron {
     background-color: blue;
+    font-size-adjust: inherit;
 }
